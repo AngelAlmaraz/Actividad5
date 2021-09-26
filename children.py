@@ -14,6 +14,3 @@ if __name__ == '__main__':
         p = Process(target=info, args=())
         p.start()
         p.join()
-~                                                                 
-~                                                                 
-~            
